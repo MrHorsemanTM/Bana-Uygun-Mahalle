@@ -1,0 +1,15 @@
+# Python sanal ortamı
+venv/
+env/
+ENV/
+
+# Python önbellekleri
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Çevre değişkenleri ve gizli anahtarlar
+.env
+
+# VS Code ayarları
+.vscode/
